@@ -1,6 +1,6 @@
 // para exportar
 import '../css/componentes.css';
-import webpacklogo from '../assets/img/webpack-logo.png';
+import webpacklogo from '../assets/img/juan.png';
 
 export const saludar = (nombre) => { // Estructura de funcion con funcion de llave
     
